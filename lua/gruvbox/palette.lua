@@ -3,7 +3,7 @@ return {
   dark0_hard =      "#1c1f1d",  -- #1c1f1d
   dark0 =           "#202820",  -- #202820
   dark0_soft =      "#2b2e28",  -- #2b2e28
-  dark1 =           "#3a4030",  -- #3a4030
+  dark1 =           "#35382c",  -- #3a4030
   dark2 =           "#4a4f3a",  -- #4a4f3a
   dark3 =           "#55603d",  -- #55603d
   dark4 =           "#5d7349",  -- #5d7349
